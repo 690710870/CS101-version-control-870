@@ -10,6 +10,11 @@
 - Learn Git and GitHub
 - Build a personal website
 
+ ## Skills
+- Problem solving
+- Python basics
+- Teamwork
+
 ## Technology Interests
 - Artificial Intelligence
 - Game Development
